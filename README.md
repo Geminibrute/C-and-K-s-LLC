@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    This site is currently under construction.
+    This site is currently under construction.  More to come.
 </body>
 
 </html>
