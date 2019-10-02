@@ -1,14 +1,4 @@
 # C and K's, LLC
 
-<!doctype html>
+This site is currently under construction.  More to come.
 
-<head>
-  <title>C & K's, LLC</title>
-  <link rel="stylesheet" type="text/css" href="CECT.css">
-</head>
-
-<body>
-    This site is currently under construction.  More to come.
-</body>
-
-</html>
