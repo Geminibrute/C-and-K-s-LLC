@@ -2,7 +2,7 @@
 
 <!doctype html>
 
-<head>
+<<style>a:active {color: #0000FF}</style>>
   <title>C & K's, LLC</title>
   <link rel="stylesheet" type="text/css" href="CECT.css">
 </head>
