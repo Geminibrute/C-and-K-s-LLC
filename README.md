@@ -13,15 +13,27 @@
 
 </html>
 
-<h1>This is a heading.</h1>
+<h1>Contact Info</h1>
 
 <p>This is a paragraph.</p>
 
-<h2>This is heading number 2.</h2>
+<h2>Services</h2>
 
 <p>This is a paragraph.</p>
 
-<h3>This is heading number 3.</h2>
+<h3>Pricing</h3>
+
+<p>This is a paragraph.</p>
+
+<h4>History of company</h4>
+
+<p>This is a paragraph.</p>
+
+<h5>Owner background</h5>
+
+<p>This is a paragraph.</p>
+
+<h6>FAQs</h6>
 
 <p>This is a paragraph.</p>
 
