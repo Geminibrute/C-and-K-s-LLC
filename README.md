@@ -24,3 +24,9 @@
 <h3>This is heading number 3.</h2>
 
 <p>This is a paragraph.</p>
+
+</body>
+
+<div class="tooltip">Hover over me
+  <span class="tooltiptext">Tooltip text</span>
+</div>
