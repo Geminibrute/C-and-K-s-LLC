@@ -11,7 +11,7 @@
 <ul>
   <li><strong>Phone:</strong> 612-559-5179</li>
   <li><strong>E-mail:</strong> christopher_wald@hotmail.com</li>
-  <li><strong>Website:</strong> http://www.example.org</li>
+  <li><strong>Website:</strong> http://www.candksllc.com</li>
 </ul>
 </div>
     
