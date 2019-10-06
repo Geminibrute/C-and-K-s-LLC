@@ -10,7 +10,7 @@
   <h1>Contact Info</h1>
     <p>This is a paragraph.</p>
 
-   <h2>Services</h2>
+  <h2>Services</h2>
     <p>This is a paragraph.</p>
 
   <h3>Pricing</h3>
