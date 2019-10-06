@@ -8,17 +8,6 @@
 <<style>a:active {color: #0000FF}</style>>
   <title>C & K's, LLC</title>
   <link rel="stylesheet" type="text/css" href="CECT.css">
-</head>
-  <head>
-    <body>
-    </body>
-  </head>
-
-  <head>
-    <body>
-    </body>
-   </head>
-</html>
 
   <h1>Contact Info</h1>
     <p>This is a paragraph.</p>
