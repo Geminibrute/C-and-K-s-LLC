@@ -5,7 +5,6 @@
     This site is currently under construction.  More to come.
   </body>
 
-<<style>a:active {color: #0000FF}</style>>
   <link rel="stylesheet" type="text/css" href="CECT.css">
 
   <h1>Contact Info</h1>
