@@ -8,7 +8,12 @@
   <link rel="stylesheet" type="text/css" href="CECT.css">
 
   <h1>Contact Info</h1>
-    <p>This is a paragraph.</p>
+<ul>
+  <li><strong>Phone:</strong> 612-559-5179</li>
+  <li><strong>E-mail:</strong> christopher_wald@hotmail.com</li>
+  <li><strong>Website:</strong> http://www.example.org</li>
+</ul>
+</div>
     
   <link rel="stylesheet" type="text/css" href="CECT.css">
 
