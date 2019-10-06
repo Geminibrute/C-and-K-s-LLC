@@ -6,7 +6,6 @@
   </body>
 
 <<style>a:active {color: #0000FF}</style>>
-  <title>C & K's, LLC</title>
   <link rel="stylesheet" type="text/css" href="CECT.css">
 
   <h1>Contact Info</h1>
