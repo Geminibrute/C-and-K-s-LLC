@@ -37,6 +37,6 @@
 
 </body>
 
-<div class="tooltip">
+<div class="tooltip">Hover over me
   <span class="tooltiptext">Tooltip text</span>
 </div>
